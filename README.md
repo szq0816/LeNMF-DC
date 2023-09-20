@@ -13,7 +13,7 @@ In this work, we introduce a novel multi-view learning approach, dubbed label-em
 
 
 ## 3.Experiment Results
-
+![Fig.1](./Table2.png)
 <img src="https://github.com/szqo816/LeNMF-DC/Table2.png"  width="897"  />
 <img src="https://github.com/szqo816/LeNMF-DC/Table3.png.png"  width="897"  />
 <img src="https://github.com/szqo816/LeNMF-DC/Table4.png.png"  width="897"  />
