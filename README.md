@@ -8,7 +8,6 @@ This repo contains the code and data of our Neurocomputing'2023 paper [Multi-vie
 ## 1. Framework
 
 ![Fig.1](./Framework.png)
-<img src="https://github.com/szq0816/LeNMF-DC/Framework.png"  width="658.8" height="305.5" />
 
 In this work, we introduce a novel multi-view learning approach, dubbed label-embedded regularized NMF with dual-graph constraints (LeNMF-DC), for clustering. Our proposed LeNMF-DC approach mainly utilizes matrix factorization to obtain a low-dimensional common representation of the multi-view data, in which the prior knowledge hidden in data can be fully explored. Specifically, we construct three graph regularization terms to preserve the manifold structure in the data, feature and label space, respectively. Moreover, we take advantage of the labels of the labeled samples without additional parameters.
 
@@ -18,10 +17,6 @@ In this work, we introduce a novel multi-view learning approach, dubbed label-em
 ![Fig.1](./Table3.png)
 ![Fig.1](./Table4.png)
 ![Fig.1](./Table5.png)
-<img src="https://github.com/szqo816/LeNMF-DC/Table2.png"  width="897"  />
-<img src="https://github.com/szqo816/LeNMF-DC/Table3.png.png"  width="897"  />
-<img src="https://github.com/szqo816/LeNMF-DC/Table4.png.png"  width="897"  />
-<img src="https://github.com/szqo816/LeNMF-DC/Table5.png.png"  width="897"  />
 
 
 ## 4.Citation
